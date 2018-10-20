@@ -52,6 +52,31 @@ background-size:cover;
     margin-top: 0px;
     text-align: center;
     color: black;
-
 }
+
+.footter{
+    width: 100%;
+    margin: 0px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
 
