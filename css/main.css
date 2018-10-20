@@ -63,7 +63,6 @@ background-size:cover;
 
 #barseparation{
     margin: 0px 0px 0px 0px;
-    
     background-color:yellow;
     font-size:20px;
     padding:5px 5px 0px 0px; 
@@ -92,11 +91,6 @@ background-size:cover;
     text-decoration: none;
 }
 
-.boutton{
-    text-decoration: none;
-    text-align: center;
-    color: black;
-}
 
 
 
