@@ -25,6 +25,29 @@ li a {
     text-decoration: none;
 }
 
+li p{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px 0px 0px;
+    text-decoration: none;
+}
+
+button{
+    float: center;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+    color: black;
+} 
+
 .navdroite{
     float: left;
 }
@@ -39,11 +62,11 @@ background-size:cover;
 }
 
 #barseparation{
-    margin: 0px;
-    height: 30px;
+    margin: 0px 0px 0px 0px;
+    
     background-color:yellow;
     font-size:20px;
-    padding:5px 0px 0px 0px; 
+    padding:5px 5px 0px 0px; 
     text-align:center;
     
 }
@@ -69,7 +92,11 @@ background-size:cover;
     text-decoration: none;
 }
 
-
+.boutton{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
 
 
 
