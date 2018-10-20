@@ -43,8 +43,8 @@ button{
 }
 
 .maincontainer{
-background-image:url('test1.jpeg');
-height:80%;
+background-image:url('riversite.jpeg');
+height:90%;
 background-attachment:fixed;
 background-position:center;
 background-repeat:no-repeat;
@@ -74,7 +74,6 @@ background-size:cover;
     padding: 0;
     overflow: hidden;
     background-color: black;
-
     display: block;
     color: white;
     text-align: center;
