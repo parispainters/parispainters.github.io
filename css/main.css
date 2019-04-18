@@ -37,10 +37,24 @@ button{
     float: center;
 }
 
+a::hover{
+    color: grey;
+}
+
 
 .navdroite{
     float: left;
 }
+
+.nav2{
+    background-color: white;
+}
+
+.nav2 p{
+    color: black;
+    text-align:center;
+}
+
 
 .maincontainer{
 background-image:url('riversite.jpeg');
@@ -59,6 +73,7 @@ background-size:cover;
     text-align:center;
     
 }
+
 
 .container{
     margin-top: 0px;
